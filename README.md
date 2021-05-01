@@ -2,9 +2,11 @@
 
 - [Exploratory WhatsApp Chat Analysis](#exploratory-whatsapp-chat-analysis)
   - [About](#about)
+  - [Gallery](#gallery)
   - [Setting Up](#setting-up)
   - [Executing the Notebook](#executing-the-notebook)
   - [Flow of Execution](#flow-of-execution)
+  
 
 ## About
 
@@ -12,7 +14,13 @@
 * No data is stored or sent outside your system of execution. All chat data is deleted from memory once the insights are generated. Jupyter notebooks are used so that the code generating the summaries can be viewed by the skeptical user.
 * Load up your individual chats and look up metrics such as response time, text density, number of emojis, etc.
 
+## Gallery
+
 <img src="assets/newplot.png" height=400></img>
+
+![](assets/density.png)
+![](assets/response_time.png)
+![](assets/messages.png)
 
 ## Setting Up
 
